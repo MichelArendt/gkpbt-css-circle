@@ -1,1 +1,1 @@
-# Readme
+Coursera study project
